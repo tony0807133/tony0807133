@@ -6,14 +6,14 @@
 
 ---
 
-<h2 align="left">👨‍💻 About Me</h2>
-- 💡 Passionate about Linux administration and DevOps automation.  
-- 🐋 Working with Docker containers and exploring AWS services.  
-- 🔧 Building CI/CD pipelines using Jenkins, Ansible, and Python scripting.  
+## 👨‍💻 About Me
+- 💡 Passionate about Linux administration and DevOps automation.
+- 🐋 Working with Docker containers and exploring AWS services.
+- 🔧 Building CI/CD pipelines using Jenkins, Ansible, and Python scripting.
 
 ---
 
-<h2 align="left">🛠️ Tools & Technologies</h2>
+## 🛠️ Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
@@ -33,21 +33,20 @@
 
 ---
 
-<h2 align="left">⚡ Fun Fact</h2>
+## ⚡ Fun Fact
 > “Real DevOps don’t restart the server. They find why it’s down in the first place. 😉”
 
 ---
 
-<h2 align="left">📊 Most Used Languages</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony0807133&layout=compact&theme=tokyonight)
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony0807133&layout=compact&theme=radical)
 
 ---
 
-<h2 align="left">🧾 GitHub Stats</h2>
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony0807133&show_icons=true&theme=tokyonight&count_private=true)
+## 🧾 GitHub Stats
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony0807133&show_icons=true&theme=radical&count_private=true)
 
 ---
 
-<h2 align="left">📫 Reach Me</h2>
-- Email: spalande092@gmail.com  
-
+## 📫 Reach Me
+- Email: spalande092@gmail.com
