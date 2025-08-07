@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋 Welcome to my GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=DevOps+Enthusiast;Linux+%7C+Docker+%7C+AWS+%7C+Jenkins+%7C+Python+%7C+Ansible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast+%7C+Linux+%7C+Docker+%7C+AWS+%7C+Jenkins+%7C+Python+%7C+Ansible" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
+
 - 💡 Passionate about Linux administration and DevOps automation.
 - 🐋 Working with Docker containers and exploring AWS services.
 - 🔧 Building CI/CD pipelines using Jenkins, Ansible, and Python scripting.
@@ -34,11 +35,13 @@
 ---
 
 ## ⚡ Fun Fact
+
 > “Real DevOps don’t restart the server. They find why it’s down in the first place. 😉”
 
 ---
 
 ## 📊 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony0807133&layout=compact&theme=tokyonight" />
 </p>
@@ -46,6 +49,7 @@
 ---
 
 ## 🧾 GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tony0807133&theme=github_dark" />
 </p>
@@ -53,11 +57,13 @@
 ---
 
 ## 🖼️ DevOps Life
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="DevOps Life GIF">
+  <img src="https://cdn.dribbble.com/users/2058104/screenshots/15101503/media/e20c0b144fc586e8be7b5d3aa652654d.gif" width="500" alt="DevOps Animation" />
 </p>
 
 ---
 
 ## 📫 Reach Me
+
 - 📧 Email: [spalande092@gmail.com](mailto:spalande092@gmail.com)
