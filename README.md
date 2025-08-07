@@ -49,5 +49,4 @@
 ---
 
 ## 📫 Reach Me
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: spalande092@gmail.com
