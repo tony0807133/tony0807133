@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 Welcome to my GitHub Profile</h1>
 
 <p align="center">
-  🚀 DevOps Enthusiast | Linux | Docker | AWS | Git | Jenkins | Python | Ansible
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=DevOps+Enthusiast;Linux+%7C+Docker+%7C+AWS+%7C+Jenkins+%7C+Python+%7C+Ansible" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,14 +39,25 @@
 ---
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony0807133&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony0807133&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🧾 GitHub Stats
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony0807133&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tony0807133&theme=github_dark" />
+</p>
+
+---
+
+## 🖼️ DevOps Life
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="DevOps Life GIF">
+</p>
 
 ---
 
 ## 📫 Reach Me
-- Email: spalande092@gmail.com
+- 📧 Email: [spalande092@gmail.com](mailto:spalande092@gmail.com)
